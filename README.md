@@ -73,7 +73,7 @@ public class Helloworld : MonoBehaviour
 
 ```
 - Привязать скрипт к объекту и выполнить проект.
-  ![alt text](2.png)
+  ![alt text](3333.png)
 
 
 ## Задание 3
